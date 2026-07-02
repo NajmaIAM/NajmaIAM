@@ -1,7 +1,7 @@
 <H1>Hi, I'm Najma, a Cybersecuirty, IAM Azure Associate </a>0</h1>
 
 <b>Microsoft Azure Entra ID</b>
-- [Creating User's in Entra ID]()
+- [Creating User's in Entra ID](https://github.com/NajmaIAM/user-accounts)
 - [Cloud Provisioning - P2 Licensing]()
 - [Role Assignments]()
 - [Group Assignments]()
