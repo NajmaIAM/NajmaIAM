@@ -6,7 +6,7 @@
 - [Role Assignments](https://github.com/NajmaIAM/role-assignments)
 - [Group Assignments](https://github.com/NajmaIAM/group-assignments/blob/main/README.md)
 - [Identity Lifecycle]()
-- [Audit Logs]()
+- [Audit Logs](https://github.com/NajmaIAM/audit-logs/blob/main/README.md)
 - [Sign-In Logs]()
 - [Authentication]()
   
